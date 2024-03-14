@@ -1,3 +1,9 @@
-# Actividad 1
->[!TIP] 
->Repositorio para la actividad 1, cuenta con los dos ejercicios realizados por Jairo Andres Sánchez
+## 📓: Actividades Talento Tech
+>[!IMPORTANT] 
+>Repositorio creado para proyectos de Talento Tech, este repositroio es creado por: Jairo Andres Sánchez.
+
+>[!TIP]
+>Cuenta con los dos ejercicios de la activida 1, los cuales son: ***Letras.py*** y ***Numeros_Distintos.py***
+
+>[!TIP]
+>Ahora agrego al repositorio el proyecto del juego del ahorcado, llamado ***ahorcado.py***
