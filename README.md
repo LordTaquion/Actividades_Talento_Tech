@@ -7,3 +7,6 @@
 
 >[!TIP]
 >Ahora agrego al repositorio el proyecto del juego del ahorcado, llamado ***ahorcado.py***
+
+>[!TIP]
+>Agrego al repositorio los ejercicios de herecia llamado ***herencia.py***
